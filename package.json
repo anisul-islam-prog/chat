@@ -1,0 +1,21 @@
+{
+  "name": "letschat",
+  "version": "1.0.0",
+  "type": "module",
+  "@std/esm": "cjs",
+  "description": "This is a demo application to kickstart learning node, express and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anisul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "@std/esm": "^0.26.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13",
+    "socket.io": "^2.3.0"
+  }
+}

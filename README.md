@@ -1,4 +1,4 @@
-# chat :partypopper:
+# chat :chat:
 
 
 ### Initialize 
